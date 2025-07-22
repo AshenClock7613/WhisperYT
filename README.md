@@ -1,6 +1,4 @@
 # WhisperYT
-repository to convert in an easy way a youtube video to .txt with whisper model.
-# WhisperYT
 
 WhisperYT is a simple yet powerful command-line tool that leverages OpenAI's Whisper model to transcribe audio from YouTube videos or local audio files. The project generates a text file with a full transcription and detailed timestamps for each dialogue segment.
 
