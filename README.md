@@ -27,21 +27,12 @@ Before you begin, ensure you have the following installed on your system:
 1.  **Clone or Download the Repository**
     If the project is on Git, you can clone it:
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/AshenClock7613/WhisperYT.git
     cd WhisperYT
     ```
     Alternatively, download the `stt.py` and `requirements.txt` files and save them in a new folder.
 
-2.  **Create a Virtual Environment (Recommended)**
-    It's good practice to isolate project dependencies.
-    ```bash
-    python -m venv venv
-    ```
-    Activate the virtual environment:
-    *   **Windows**: `venv\Scripts\activate`
-    *   **macOS/Linux**: `source venv/bin/activate`
-
-3.  **Install Dependencies**
+2.  **Install Dependencies**
     Install the required Python libraries using the `requirements.txt` file.
     ```bash
     pip install -r requirements.txt
